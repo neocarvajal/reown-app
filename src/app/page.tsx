@@ -1,5 +1,5 @@
 "use client";
-
+/* eslint-disable */
 import { useAccount } from "wagmi";
 
 export default function Home() {
@@ -12,7 +12,7 @@ export default function Home() {
             <div className="hidden sm:inline text-xl font-bold">reown AppKit example app</div>
           </div>
           <div className="flex items-center">
-            <w3m-button />
+            HERE<w3m-button/>
           </div>
         </header>
         <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
